@@ -11,12 +11,12 @@
 
 ### Known Technologies
 
-<a href="https://www.java.com/">
+<a href="https://www.oracle.com/java/" target="_blank">
   <img alt="Java" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 </a>
-<a href="https://www.python.org/">
+<a href="https://www.python.org/" target="_blank">
   <img alt="Python" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 </a>
-<a href="https://mariadb.org/">
+<a href="https://mariadb.org/" target="_blank">
   <img alt="MariaDB" height="64" width="64" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg">
 </a>
